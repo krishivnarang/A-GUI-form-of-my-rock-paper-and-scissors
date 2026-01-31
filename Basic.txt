@@ -1,0 +1,1 @@
+This was made through predownloading pngs and can also be formed into an .exe form to reflect my understanding level in Python and cmd though skewing towards basic
